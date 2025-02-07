@@ -1,0 +1,98 @@
+.div01 {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
+}
+
+.img01 {
+    width: 50%;
+    height: auto;
+}
+
+.div02 {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
+}
+
+.img02 {
+    width: 50%;
+    height: auto;
+}
+
+.div03 {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
+}
+
+.img03 {
+    width: 50%;
+    height: auto;
+}
+
+.div04 {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
+}
+
+.img04 {
+    width: 50%;
+    height: auto;
+}
+
+@media all and (max-width: 600px) {
+    .div01 {
+        display: flex;
+        flex-direction: row;
+        align-self: center;
+        justify-content: center;
+    }
+    
+    .img01 {
+        width: 95%;
+        height: auto;
+    }
+    
+    .div02 {
+        display: flex;
+        flex-direction: row;
+        align-self: center;
+        justify-content: center;
+    }
+    
+    .img02 {
+        width: 95%;
+        height: auto;
+    }
+    
+    .div03 {
+        display: flex;
+        flex-direction: row;
+        align-self: center;
+        justify-content: center;
+    }
+    
+    .img03 {
+        width: 95%;
+        height: auto;
+    }
+    
+    .div04 {
+        display: flex;
+        flex-direction: row;
+        align-self: center;
+        justify-content: center;
+    }
+    
+    .img04 {
+        width: 95%;
+        height: auto;
+    }
+    
+}
